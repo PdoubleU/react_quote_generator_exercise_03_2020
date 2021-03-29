@@ -2,13 +2,13 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 # React quote generator
 
-![GitHub Logo](/images/starcab.bmp)
+![GitHub Logo](/images/rqgenerator.bmp)
 
 
-[Lets go to live preview](starcab.wroclaw.pl)
+[Lets go to live preview](https://pdoubleu.github.io/react_quote_generator_exercise_03_2020/)
 
 
-Website presents local transportation company. Provides simple information (adress, services, etc.) and allows to contact with the company owners by form. It is available in two languages: polish and english.
+This application allows user to change the quote displayed on the screen by pressing button 'next quote'. If the visitor is keen of the quote, he can tweet it pressing button with 'twitter' icon. 
 
 
 ## Used technologies and approaches
@@ -29,4 +29,5 @@ The following tools were used to finalize project:
     2. GIT - as a control version system
     3. Webpack - to put all project's elements together into joined files ready to deploy
     4. Many popular plugins for Webpack to make production more efficient and easier
+    5. Test suit provided by Free Code Camp
 
